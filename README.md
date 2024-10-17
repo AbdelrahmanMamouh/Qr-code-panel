@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+https://hdgamerh2w9.github.io/Qr-code-panel/
+
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
 ## Welcome! 👋
